@@ -20,6 +20,7 @@
 *.userprefs
 *.pidb
 *.svd
+*.vscode
 
 
 
